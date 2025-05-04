@@ -49,4 +49,6 @@
     1234,
     { name: "Sifat", email: "sahabulislamsifat@gmail.com" },
   ];
+
+  console.log(userWithId);
 }
